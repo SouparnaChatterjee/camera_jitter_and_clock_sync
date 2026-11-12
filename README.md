@@ -83,8 +83,13 @@ The experiments use three [KITTI raw](https://www.cvlibs.net/datasets/kitti/raw_
 
 All results come from a single Python notebook run on CPU (Kaggle) using NumPy, SciPy, pandas, OpenCV and matplotlib, with fixed random seeds for injection and bootstrap.
 
-- Notebook and figure files: **[repository URL to be added]**
-- Archive: **[Zenodo DOI to be added]**
+- Notebook and figure files: **https://github.com/SouparnaChatterjee/camera_jitter_and_clock_sync**
+- Archive: **@misc{chatterjee_timestamp_health,
+  author = {Chatterjee, Souparna},
+  title  = {Timestamp Health in Multi-Sensor Driving Data: Measuring Jitter, Drift and Offset on {KITTI}, and What They Imply for {ROS}~2 Recording Pipelines},
+  note   = {Draft v0.1, preprint (not peer reviewed)},
+  doi    = {[Zenodo DOI to be added]}
+}**
 
 Figures 1–3, 5 and 6 are direct notebook output; Figure 4 is plotted from the values in Tables 3 and 4.
 
