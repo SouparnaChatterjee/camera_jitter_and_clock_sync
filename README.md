@@ -101,17 +101,3 @@ Figures 1–3, 5 and 6 are direct notebook output; Figure 4 is plotted from the 
 
 Each project is written to stand alone.
 
-## Citation
-
-```bibtex
-@misc{chatterjee_timestamp_health,
-  author = {Chatterjee, Souparna},
-  title  = {Timestamp Health in Multi-Sensor Driving Data: Measuring Jitter, Drift and Offset on {KITTI}, and What They Imply for {ROS}~2 Recording Pipelines},
-  note   = {Draft v0.1, preprint (not peer reviewed)},
-  doi    = {[Zenodo DOI to be added]}
-}
-```
-
-## Licence
-
-[Add a licence for the text and code here, e.g. CC BY 4.0 for the report and MIT for code.] KITTI data remains under its own CC BY-NC-SA 3.0 licence.
